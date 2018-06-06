@@ -8,13 +8,17 @@ For each of the methods associated with each data structure, classify it based o
 
 2. What is the runtime complexity of `removeHead`?
 
+
 3. What is the runtime complexity of `contains`?
+O(n)
 
 4. What is the runtime complexity of `getMax`?
+O(n)
 
 ## Queue
 
 1. What is the runtime complexity of `enqueue`?
+* O(1)
 
 2. What is the runtime complexity of `dequeue`?
 
@@ -25,16 +29,20 @@ For each of the methods associated with each data structure, classify it based o
 ## Binary Search Tree
 
 1. What is the runtime complexity of `insert`? 
+O(logn)
 
 2. What is the runtime complexity of `contains`?
+* O(logn)
 
 3. What is the runtime complexity of `getMax`? 
+O(logn)
 
 ## Heap
 
 1. What is the runtime complexity of `bubbleUp`?
-
+* O(logn)
 2. What is the runtime complexity of `siftDown`?
+* O(logn)
 
 3. What is the runtime complexity of `insert`?
 
